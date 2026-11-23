@@ -1,0 +1,11 @@
+{
+  "completed_at": "2026-11-23T09:27:38.067126+00:00",
+  "urls_selected": 25,
+  "results_count": 25,
+  "concurrency": 10,
+  "classification_counts": {
+    "SUCCESS": 25
+  },
+  "browser_fallback_urls": [],
+  "output_file": "data\\crawl_results.json"
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "url": "http://arxiv.org/abs/2611.16981v1",
+    "crawled_at": "2026-11-23T09:27:19.564296+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16981v1] Compiling Known Rules into Compact Neural Agents: Weight-Space Programming on Unseen Games",
+    "text_length": 4989,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16986v1",
+    "crawled_at": "2026-11-23T09:27:19.564669+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16986v1] Primer: An AI Framework for Instructor-Centered Educational Simulation Creation",
+    "text_length": 4867,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16929v1",
+    "crawled_at": "2026-11-23T09:27:19.553480+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16929v1] SPADE: Soft Prompts for Ai-text DEtection",
+    "text_length": 4584,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16937v2",
+    "crawled_at": "2026-11-23T09:27:19.563674+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16937v2] S1-Evo: Experience-Guided Evidence Competition Attacks on Typed System-1 Decision Models",
+    "text_length": 4699,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16984v1",
+    "crawled_at": "2026-11-23T09:27:19.564493+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16984v1] ElasticDino: Dense Semantic Features Using Elastic Deformations",
+    "text_length": 4674,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16991v1",
+    "crawled_at": "2026-11-23T09:27:19.564840+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16991v1] AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
+    "text_length": 4506,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16956v1",
+    "crawled_at": "2026-11-23T09:27:19.563906+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16956v1] Lara Mini Base: Language Diversity as a Resource, Not a Trade-off",
+    "text_length": 9018,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17007v2",
+    "crawled_at": "2026-11-23T09:27:19.564990+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17007v2] Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills",
+    "text_length": 5086,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17031v1",
+    "crawled_at": "2026-11-23T09:27:19.565047+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17031v1] Your Vision Foundation Model Is Secretly an EEG Foundation Model",
+    "text_length": 5091,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17015v1",
+    "crawled_at": "2026-11-23T09:27:19.565029+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17015v1] AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems",
+    "text_length": 4637,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17048v2",
+    "crawled_at": "2026-11-23T09:27:19.565076+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17048v2] Beyond Answering: Learning to Speak First and Act in Streaming Video",
+    "text_length": 5210,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17068v1",
+    "crawled_at": "2026-11-23T09:27:19.565102+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17068v1] Discovering Effective Agent Memory Designs through Program Evolution",
+    "text_length": 4800,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17041v1",
+    "crawled_at": "2026-11-23T09:27:19.565061+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17041v1] From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research",
+    "text_length": 4887,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17052v1",
+    "crawled_at": "2026-11-23T09:27:19.565089+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17052v1] Auditing AI peer reviewers: a benchmark on real scientific papers",
+    "text_length": 5487,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17072v1",
+    "crawled_at": "2026-11-23T09:27:19.565182+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17072v1] Reasoning Supervision and Capability Retention in LoRA Domain Adaptation",
+    "text_length": 4929,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17098v1",
+    "crawled_at": "2026-11-23T09:27:19.565251+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17098v1] Speed-to-Power Dominates Energy Costs for AI Data Centers: Technoeconomic Analysis of Powering AI in the Continental United States",
+    "text_length": 5263,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17101v1",
+    "crawled_at": "2026-11-23T09:27:19.565269+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17101v1] A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection",
+    "text_length": 5000,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17110v2",
+    "crawled_at": "2026-11-23T09:27:19.565296+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17110v2] SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
+    "text_length": 5347,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17105v1",
+    "crawled_at": "2026-11-23T09:27:19.565283+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17105v1] Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling",
+    "text_length": 4996,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16961v1",
+    "crawled_at": "2026-11-23T09:27:19.564124+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16961v1] The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+    "text_length": 4821,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17114v1",
+    "crawled_at": "2026-11-23T09:27:19.565311+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17114v1] Designing Institutions for Autonomous AI",
+    "text_length": 4780,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16933v1",
+    "crawled_at": "2026-11-23T09:27:19.562821+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16933v1] Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data",
+    "text_length": 5267,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.16935v1",
+    "crawled_at": "2026-11-23T09:27:19.563396+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.16935v1] Universal Infectious Disease Forecasting with Mantis 2",
+    "text_length": 5110,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17128v1",
+    "crawled_at": "2026-11-23T09:27:19.565383+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17128v1] Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models",
+    "text_length": 5110,
+    "requires_browser_fallback": false
+  },
+  {
+    "url": "http://arxiv.org/abs/2611.17115v1",
+    "crawled_at": "2026-11-23T09:27:19.565324+00:00",
+    "status": 200,
+    "classification": "SUCCESS",
+    "title": "[2611.17115v1] CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+    "text_length": 4947,
+    "requires_browser_fallback": false
+  }
+]

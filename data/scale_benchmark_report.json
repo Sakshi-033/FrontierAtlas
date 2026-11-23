@@ -1,0 +1,13 @@
+{
+  "benchmark_type": "synthetic_local_batch_processing",
+  "completed_at": "2026-11-23T10:41:30.697627+00:00",
+  "records_generated": 500000,
+  "records_processed": 500000,
+  "valid_records": 500000,
+  "batch_size": 5000,
+  "batches": 100,
+  "elapsed_seconds": 8.229,
+  "records_per_second": 60761.75,
+  "peak_traced_memory_mb": 1.7,
+  "note": "Synthetic local processing benchmark. Not a live network crawling benchmark."
+}

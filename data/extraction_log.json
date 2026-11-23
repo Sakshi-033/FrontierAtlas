@@ -1,0 +1,99 @@
+{
+  "run_at": "2026-11-23T09:49:49.278874+00:00",
+  "total_input_records": 15,
+  "total_entities": 75,
+  "successful": 12,
+  "failed": 3,
+  "records": [
+    {
+      "record": 1,
+      "type": "NEWS",
+      "status": "SUCCESS",
+      "entities_found": 7
+    },
+    {
+      "record": 2,
+      "type": "NEWS",
+      "status": "SUCCESS",
+      "entities_found": 6
+    },
+    {
+      "record": 3,
+      "type": "NEWS",
+      "status": "SUCCESS",
+      "entities_found": 23
+    },
+    {
+      "record": 4,
+      "type": "NEWS",
+      "status": "SUCCESS",
+      "entities_found": 12
+    },
+    {
+      "record": 5,
+      "type": "NEWS",
+      "status": "FAILED",
+      "error": "All providers failed: Gemini Flash: HTTP 429 | Groq Llama: Groq Llama timed out"
+    },
+    {
+      "record": 6,
+      "type": "NEWS",
+      "status": "FAILED",
+      "error": "All providers failed: Gemini Flash: Gemini Flash timed out | Groq Llama: Groq Llama timed out"
+    },
+    {
+      "record": 7,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 7
+    },
+    {
+      "record": 8,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 4
+    },
+    {
+      "record": 9,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 4
+    },
+    {
+      "record": 10,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 3
+    },
+    {
+      "record": 11,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 2
+    },
+    {
+      "record": 12,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 1
+    },
+    {
+      "record": 13,
+      "type": "JOB",
+      "status": "FAILED",
+      "error": "All providers failed: Gemini Flash: HTTP 429 | Groq Llama: HTTP 429"
+    },
+    {
+      "record": 14,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 4
+    },
+    {
+      "record": 15,
+      "type": "JOB",
+      "status": "SUCCESS",
+      "entities_found": 2
+    }
+  ]
+}

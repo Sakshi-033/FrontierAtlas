@@ -1,0 +1,602 @@
+[
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "AI startup and creator of the Claude models; raised $81.3 billion in its IPO, achieving a fully diluted valuation of about $1.5 trillion.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "Notable Capital",
+    "entity_type": "STARTUP",
+    "description": "Venture capital firm (formerly GGV Capital) that invested roughly 10% of the U.S. portion of its $1 billion‑plus fund into Anthropic’s Series E round.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "GIC",
+    "entity_type": "STARTUP",
+    "description": "Singapore sovereign wealth fund that invested more than $4.5 billion in Anthropic across Series F, Series G and the pre‑IPO round, holding about a 1% stake after the IPO.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "Baillie Gifford",
+    "entity_type": "STARTUP",
+    "description": "Investment manager that invested a total of $1.5 billion in Anthropic across three funding rounds, beginning with the Series F round.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "Claude",
+    "entity_type": "PRODUCT",
+    "description": "Anthropic’s flagship large‑language model, reported to be used by developers 70% of the time, surpassing ChatGPT usage.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "Claude Code",
+    "entity_type": "PRODUCT",
+    "description": "A version of Anthropic’s Claude model released around the time of the Series F funding round.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "Coatue",
+    "entity_type": "STARTUP",
+    "description": "Investment firm that co‑led Anthropic’s Series G round alongside GIC at a $380 billion valuation.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+  },
+  {
+    "entity_name": "OpenAI",
+    "entity_type": "STARTUP",
+    "description": "AI research organization whose chief scientist Jakub Pachocki discussed using perplexity to limit AI development.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "AI startup mentioned in relation to concerns about catastrophic or existential risks and its IPO filing.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+  },
+  {
+    "entity_name": "SpaceX",
+    "entity_type": "STARTUP",
+    "description": "Aerospace company whose CEO Elon Musk is noted as endorsing a plan to pace AI development.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+  },
+  {
+    "entity_name": "GPT‑4",
+    "entity_type": "PRODUCT",
+    "description": "OpenAI model with perplexity around 0.91, described as proficient at chain‑of‑thought reasoning.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+  },
+  {
+    "entity_name": "GPT‑3.5",
+    "entity_type": "PRODUCT",
+    "description": "Earlier OpenAI model referenced in the trend of decreasing perplexity over time.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+  },
+  {
+    "entity_name": "TechCrunch article \"OpenAI’s chief scientist has thoughts on how to limit AI development\"",
+    "entity_type": "NEWS",
+    "description": "Article discussing Jakub Pachocki's proposal to use perplexity as a benchmark for setting speed limits on AI development.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+  },
+  {
+    "entity_name": "Why data centers are at the center of the Big Tech backlash",
+    "entity_type": "NEWS",
+    "description": "Article discussing the role of data centers in the backlash against Big Tech",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Why data centers are at the center of the Big Tech backlash",
+    "entity_type": "NEWS",
+    "description": "A news article discussing the role of data centers in the backlash against Big Tech.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Big Tech backlash",
+    "entity_type": "NEWS",
+    "description": "Data centers are at the center of the Big Tech backlash.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Hyperscale",
+    "entity_type": "RESEARCH_PAPER",
+    "description": "A book by journalist Paris Marx that investigates the impact of data centers and generative AI, describing the environmental and community effects of hyperscale data center construction.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "OpenAI",
+    "entity_type": "STARTUP",
+    "description": "AI organization mentioned as discussing a commitment to stop using NDAs with local governments.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "ChatGPT",
+    "entity_type": "PRODUCT",
+    "description": "Generative AI chatbot referenced in early statements by Sam Altman.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Flock cameras",
+    "entity_type": "PRODUCT",
+    "description": "Surveillance cameras being rolled out across the United States, noted as opposed by some.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Microsoft",
+    "entity_type": "NEWS",
+    "description": "Tech company mentioned as one of those that said they will stop using NDAs with local governments.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Amazon",
+    "entity_type": "NEWS",
+    "description": "Tech company mentioned as one of those that said they will stop using NDAs with local governments.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Meta",
+    "entity_type": "NEWS",
+    "description": "Company referenced regarding smart glasses being rolled out to people’s faces.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Waymo",
+    "entity_type": "NEWS",
+    "description": "Company mentioned in relation to self‑driving cars being rolled out.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Ron DeSantis",
+    "entity_type": "NEWS",
+    "description": "Florida governor cited as opposing data centers.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Bernie Sanders",
+    "entity_type": "NEWS",
+    "description": "U.S. senator cited as opposing data centers.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Sam Altman",
+    "entity_type": "NEWS",
+    "description": "OpenAI CEO referenced for early statements about generative AI benefits.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Hyperscale",
+    "entity_type": "RESEARCH_PAPER",
+    "description": "Book titled \"Hyperscale\" by journalist Paris Marx that examines the impacts of hyperscale data centers.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Microsoft outage",
+    "entity_type": "NEWS",
+    "description": "Recent Microsoft service outage referenced as an example of reliance on major tech companies.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Google AI tool threat to schools",
+    "entity_type": "NEWS",
+    "description": "Google threatened schools with loss of Google Search access if they did not accept Google's AI tool.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Anthropic IPO",
+    "entity_type": "NEWS",
+    "description": "Amazon and Google expected to own nearly 30% of Anthropic after its initial public offering.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Artex AI hacking tool",
+    "entity_type": "NEWS",
+    "description": "FBI reported that the open‑source Artex AI hacking tool was used to breach networks in under three hours.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Startup sues Apple in India over tap‑to‑share contacts feature",
+    "entity_type": "NEWS",
+    "description": "A startup filed a lawsuit against Apple in India concerning the tap‑to‑share contacts feature.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "AI claimed solution to the Riemann hypothesis",
+    "entity_type": "NEWS",
+    "description": "An AI claimed to have solved the 167‑year‑old Riemann hypothesis, a claim later contested by a human.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Satya Nadella asks 60K employees to quit",
+    "entity_type": "NEWS",
+    "description": "Microsoft CEO Satya Nadella explained why he asked 60,000 employees to resign.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Palmer Luckey on Jensen Huang",
+    "entity_type": "NEWS",
+    "description": "Palmer Luckey said China is \"thrilled to have Jensen out\" and advocated reinstating the ousted Nvidia CEO.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "Why data centers are at the center of the Big Tech backlash"
+  },
+  {
+    "entity_name": "Microsoft",
+    "entity_type": "NEWS",
+    "description": "Technology company referenced for warning about future outages.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "US government",
+    "entity_type": "NEWS",
+    "description": "Government referenced as agreeing there will be more tech outages.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "Jay Clayton",
+    "entity_type": "NEWS",
+    "description": "Director of National Intelligence who told CNN the public should prepare for cybersecurity investment.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "CNN",
+    "entity_type": "NEWS",
+    "description": "News outlet where Jay Clayton's comments were reported.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "Brad Smith",
+    "entity_type": "NEWS",
+    "description": "Microsoft President who warned about further outages on CBS News’ Face the Nation.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "Face the Nation",
+    "entity_type": "NEWS",
+    "description": "CBS News program on which Brad Smith discussed upcoming outages.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "Margaret Brennan",
+    "entity_type": "NEWS",
+    "description": "Host of CBS News’ Face the Nation who interviewed Brad Smith.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "FAA",
+    "entity_type": "NEWS",
+    "description": "Federal Aviation Administration, mentioned for a nationwide ground stop outage.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "Outlook",
+    "entity_type": "PRODUCT",
+    "description": "Microsoft email and calendar service that experienced a multi‑day outage.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "JPMorgan Chase",
+    "entity_type": "NEWS",
+    "description": "Bank referenced for a recent banking outage.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "USDA",
+    "entity_type": "NEWS",
+    "description": "U.S. Department of Agriculture, noted as a target of recent cyber attacks.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "The Verge",
+    "entity_type": "NEWS",
+    "description": "Publication that authored the article about major tech outages.",
+    "source_url": null,
+    "source_type": "NEWS",
+    "source_title": "We haven’t seen the last of the major tech outages"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "AI research and development company focused on creating reliable, interpretable, and steerable AI systems.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "Enterprise Integrated Campaign Manager",
+    "entity_type": "JOB",
+    "description": "Role at Anthropic responsible for designing, orchestrating, scaling, and measuring integrated marketing campaigns across enterprise customer segments.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "6sense",
+    "entity_type": "PRODUCT",
+    "description": "Account‑based marketing (ABM) platform mentioned as a tool for ABM strategy and execution.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "Demandbase",
+    "entity_type": "PRODUCT",
+    "description": "Account‑based marketing (ABM) platform referenced for ABM strategy and execution.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "Marketo",
+    "entity_type": "PRODUCT",
+    "description": "Marketing automation platform cited as part of campaign operations fluency.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "Salesforce",
+    "entity_type": "PRODUCT",
+    "description": "Customer relationship management (CRM) platform mentioned alongside marketing automation tools.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "Anthropic is a public benefit corporation headquartered in San Francisco.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Campaign Manager"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "Anthropic is an AI company whose mission is to create reliable, interpretable, and steerable AI systems that are safe and beneficial for users and society.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Head of Campaign Operations"
+  },
+  {
+    "entity_name": "Claude",
+    "entity_type": "PRODUCT",
+    "description": "Claude is an AI system mentioned as part of Anthropic’s automation strategy for campaign operations.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Head of Campaign Operations"
+  },
+  {
+    "entity_name": "Head of Campaign Operations",
+    "entity_type": "JOB",
+    "description": "A senior role at Anthropic responsible for building tools, processes, and insights for enterprise campaigns, leading a small team of employees and contractors, and reporting to the Head of Enterprise Integrated Campaigns.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Head of Campaign Operations"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "Anthropic is a public benefit corporation headquartered in San Francisco that conducts AI research and hires employees, offering visa sponsorship, competitive compensation, and a candidate AI usage policy.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Head of Campaign Operations"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "AI company whose mission is to create reliable, interpretable, and steerable AI systems; employer of the Program Manager, Cloud Partners role.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Program Manager, Cloud Partners"
+  },
+  {
+    "entity_name": "Claude",
+    "entity_type": "PRODUCT",
+    "description": "Anthropic's AI system referenced as being reachable through cloud partners such as AWS, Google Cloud, and Microsoft.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Program Manager, Cloud Partners"
+  },
+  {
+    "entity_name": "Program Manager, Cloud Partners",
+    "entity_type": "JOB",
+    "description": "Individual contributor role at Anthropic responsible for owning programs and campaigns across cloud partner marketing, including webinars, workshops, and digital campaigns.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Program Manager, Cloud Partners"
+  },
+  {
+    "entity_name": "Anthropic",
+    "entity_type": "STARTUP",
+    "description": "Anthropic is a public benefit corporation headquartered in San Francisco that conducts AI research focused on steerable, trustworthy AI and offers employment with visa sponsorship and various benefits.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Program Manager, Cloud Partners"
+  },
+  {
+    "entity_name": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)",
+    "entity_type": "JOB",
+    "description": "Research Engineer or Research Scientist role focusing on learning from human feedback and user interaction signals at OpenAI's Collective Alignment (User Signals) team.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)"
+  },
+  {
+    "entity_name": "Collective Alignment (User Signals) team",
+    "entity_type": "RESEARCH_PAPER",
+    "description": "Post‑training research team at OpenAI working at the intersection of data science, human feedback, and reinforcement learning to develop methods for learning from real‑world user interactions.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)"
+  },
+  {
+    "entity_name": "OpenAI",
+    "entity_type": "STARTUP",
+    "description": "AI research and deployment company dedicated to ensuring that general‑purpose artificial intelligence benefits all of humanity.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)"
+  },
+  {
+    "entity_name": "OpenAI",
+    "entity_type": "STARTUP",
+    "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. It develops AI systems, products, and safety measures, and is an equal opportunity employer.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer/Research Scientist-Post Training, Proactivity"
+  },
+  {
+    "entity_name": "Research Engineer/Research Scientist - Post Training, Proactivity",
+    "entity_type": "JOB",
+    "description": "A full‑time research engineer/scientist role on OpenAI's Proactivity Research team (within the Post Training team). The position focuses on improving model personalization and agentic capabilities through reinforcement learning, dataset creation, and evaluations. Responsibilities include owning a research agenda, building evaluations, coding across the research stack, and collaborating with research and product teams. The role is based in San Francisco, CA, uses a hybrid work model (3 days in office), and offers relocation assistance.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer/Research Scientist-Post Training, Proactivity"
+  },
+  {
+    "entity_name": "Research Engineer/Research Scientist - Post Training, Model Experience",
+    "entity_type": "JOB",
+    "description": "Research Engineer/Scientist role at OpenAI focusing on improving pre‑trained models for ChatGPT and related products, based in San Francisco with a hybrid work model.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer/Research Scientist- Post Training, Model Experience"
+  },
+  {
+    "entity_name": "Research Engineer / Research Scientist, Human Flourishing",
+    "entity_type": "JOB",
+    "description": "Job posting at OpenAI for a research role focused on human flourishing, measuring and improving AI alignment with human values and long-term goals.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Human Flourishing"
+  },
+  {
+    "entity_name": "Beneficial RL",
+    "entity_type": "RESEARCH_PAPER",
+    "description": "Research project investigating how training for beneficial behavior generalizes across settings.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Human Flourishing"
+  },
+  {
+    "entity_name": "MentalHealthBench",
+    "entity_type": "RESEARCH_PAPER",
+    "description": "Benchmark developed with mental health experts to evaluate realistic conversations in AI systems.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Human Flourishing"
+  },
+  {
+    "entity_name": "OpenAI",
+    "entity_type": "STARTUP",
+    "description": "AI research and deployment company dedicated to ensuring general-purpose artificial intelligence benefits all of humanity.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Human Flourishing"
+  },
+  {
+    "entity_name": "OpenAI",
+    "entity_type": "STARTUP",
+    "description": "OpenAI is an AI research and deployment company focused on ensuring that artificial general intelligence benefits all of humanity.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Health"
+  },
+  {
+    "entity_name": "Research Engineer / Research Scientist, Health",
+    "entity_type": "JOB",
+    "description": "A research role at OpenAI's Health team in San Francisco, CA, focusing on building frontier health capabilities across pretraining, reinforcement learning, and evaluation to improve medical intelligence for patients and clinicians.",
+    "source_url": null,
+    "source_type": "JOB",
+    "source_title": "Research Engineer / Research Scientist, Health"
+  }
+]
